@@ -1,0 +1,55 @@
+.input_form {
+    width: 800px; /* задаем ширину формы, чтобы сработал overflow */
+    overflow: hidden; /* обрезаем выступы за форму (в частности в ие6 неправильно расчитанный width для div) */
+    margin-bottom: 0px;
+    padding: 2px; /* небольшой отступ чтобы не обрезалась подсветка input в фокусе в Safari и Chrome */
+}
+.input_form .formLine {
+    float: left; /* чтобы не было проблем с отступами между блоками */
+    width: 100%; /* чтобы блоки не встраивались в одну строку */
+    margin-bottom: 35px; /* расстояние между блоками */
+}
+.input_form label {
+    float: left; /* делаем метки плавающими и фиксированной ширины чтобы выровнять их по одному уровню */
+    width: 150px;
+    text-align: left;
+    position: relative; /* выравниваем тексты меток и полей по одному уровню */
+    margin-top: 5px; /* отступ сверху подбираем в зависимости от размера шрифта и дизайна полей */
+    margin-right: 5px; /* чтобы к меткам не прилипали поля */
+    color: black;
+    font: 15px Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
+.input_form input[type=text]{
+    background: #fff; /* обязательно указываем цвет фона (или ставим его none), т.к. в браузере могут быть свои значения по умолчанию */
+    border: 1px solid black; /*#7f9db9; /* цвет бордюра */
+    height: 20px; /* явно задаем высоту, для кроссбраузерности */
+}
+.input_form .wide_box{
+    width: 450px;
+}
+.input_form .narrow_box{
+    width: 150px;
+}
+.input_form .medium_box{
+    width: 200px;
+}
+.input_form .formText {/* класс для ие6, который не понимает свойства по типам селекторов */
+    width: 200px;
+    background: #fff;
+    border: 1px solid #7f9db9;
+    height: 20px;
+}
+.input_form input[type=submit] {/* оформление для кнопки submit */
+    margin-top: 20px;
+    margin-left: 155px;
+    cursor: pointer; /* меняем указатель для кнопки */
+}
+.input_form .formSubmit {/* класс для ие6 */
+    margin-left: 65px;
+    cursor: pointer;
+    width: auto;
+}
+
+
+

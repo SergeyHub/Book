@@ -1,0 +1,83 @@
+/* styles for main body and headings */
+body{
+    background:#FFFFFF;
+    font:85% Verdana,Arial,Helvetica,sans-serif;
+    margin:25px auto 10px 50px;
+}
+h1{
+    color:#00478A;font-size:140%;
+}
+/* styles for links */
+a{
+    font-variant:small-caps;
+    text-decoration:none;
+}
+a:link,a:visited{
+    color:#696A21;
+}
+a:hover,a:active{
+    color:#692121;
+    text-decoration:underline overline;
+}
+/* table styles */
+#booklist{
+    width: 65%;
+}
+td{
+    padding:2px 20px 2px 2px;
+    vertical-align:top;
+}
+td.ctr{
+    padding:2px 10px;
+}
+th.leftLabel{
+    text-align:left;
+    vertical-align:top;
+    width:150px;
+}
+/* tr.hilite{background:#C5D0D8;} */
+tr.hilite{
+    background:#e5e5e5;
+}
+tr.nohilite{
+    background:#FFF;
+}
+/* width settings for text input boxes */
+.mediumbox{
+    width:200px;
+}
+.narrowbox{
+    width:100px;
+}
+.widebox{
+    width:450px;
+}
+#description{
+    height:200px;
+    width:450px;
+}
+.button input[type=submit] {/* оформление для кнопки submit */
+    margin-top: 20px;
+    margin-left: 0px;
+    cursor: pointer; /* меняем указатель для кнопки */
+}
+/* style for warnings and alerts */
+#alert{color:#990000;font-weight:bold;width:600px;}
+/* styles for navigation menu */
+#menu{margin:0;}
+#menu a{
+    background:#999;
+    border:1px solid;
+    border-color:#DDD #000 #000 #DDD;
+    font-weight:bold;
+    padding:3px 10px;
+}
+#menu a:link,#menu a:visited{color:#EEE;}
+#menu a:hover,#menu a:active,
+#uberlink a:link,#uberlink a:visited,
+#uberlink a:hover,#uberlink a:active{background:#4169e1;color:#FFF;text-decoration:none;}
+#menu li{float:left;list-style-type:none;margin:0;padding:5px;}
+#menu ul{margin:0;padding:0;}
+
+/* this forces the rest of the page to sit below the menu */
+#maincontent{clear:both;margin:30px 0;}

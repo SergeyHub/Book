@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<Results>
+<Book>
+      <ISBN>1590591445</ISBN>
+      <BookTitle>The Definitive Guide to MySQL, Second Edition</BookTitle>
+      <Authors>
+         <Author>Michael Kofler</Author>
+      </Authors>
+      <Publisher>Apress</Publisher>
+      <ListPrice>$49.99</ListPrice>
+      <OurPrice>$32.99</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590593030</ISBN>
+      <BookTitle>Foundation Macromedia Flash MX 2004</BookTitle>
+      <Authors>
+         <Author>Kristian Besley</Author>
+         <Author>Sham Bhangal</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$29.99</ListPrice>
+      <OurPrice>$19.79</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590593081</ISBN>
+      <BookTitle>Foundation Macromedia Dreamweaver MX 2004</BookTitle>
+      <Authors>
+         <Author>Craig Grannell</Author>
+         <Author>David Powers</Author>
+         <Author>George McLachlan</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$34.99</ListPrice>
+      <OurPrice>$24.49</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>159059231X</ISBN>
+      <BookTitle>Cascading Style Sheets: Separating Content from Presentation, Second Edition</BookTitle>
+      <Authors>
+         <Author>Owen Briggs</Author>
+         <Author>Steven Champeon</Author>
+         <Author>Eric Costello</Author>
+         <Author>Matt Patterson</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$39.99</ListPrice>
+      <OurPrice>$27.19</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590593057</ISBN>
+      <BookTitle>Foundation ActionScript for Macromedia Flash MX 2004</BookTitle>
+      <Authors>
+         <Author>Sham Bhangal</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$34.99</ListPrice>
+      <OurPrice>$24.49</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1893115518</ISBN>
+      <BookTitle>Beginning PHP 5 and MySQL: From Novice to Professional</BookTitle>
+      <Authors>
+         <Author>Jason Gilmore</Author>
+      </Authors>
+      <Publisher>Apress</Publisher>
+      <ListPrice>$39.99</ListPrice>
+      <OurPrice>$26.39</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590593502</ISBN>
+      <BookTitle>PHP Web Development with Macromedia Dreamweaver MX 2004</BookTitle>
+      <Authors>
+         <Author>Rachel Andrew</Author>
+         <Author>Allan Kent</Author>
+         <Author>David Powers</Author>
+      </Authors>
+      <Publisher>Apress</Publisher>
+      <ListPrice>$39.99</ListPrice>
+      <OurPrice>$27.19</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590592077</ISBN>
+      <BookTitle>Flash Cartoon Animation: Learn from the Pros</BookTitle>
+      <Authors>
+         <Author>Glenn Kirkpatrick</Author>
+         <Author>Kevin Peaty</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$29.99</ListPrice>
+      <OurPrice>$19.79</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590594290</ISBN>
+      <BookTitle>Flash Math Creativity</BookTitle>
+      <Authors>
+         <Author>Keith Peters</Author>
+         <Author>Manny Tan</Author>
+         <Author>Jamie MacDonald</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$49.99</ListPrice>
+      <OurPrice>$32.99</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>159059441X</ISBN>
+      <BookTitle>Regular Expression Recipes: A Problem-Solution Approach</BookTitle>
+      <Authors>
+         <Author>Nathan Good</Author>
+      </Authors>
+      <Publisher>Apress</Publisher>
+      <ListPrice>$34.99</ListPrice>
+      <OurPrice>$23.79</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590594304</ISBN>
+      <BookTitle>Web Designer's Reference: An Integrated Approach To Web Design With Xhtml And Css</BookTitle>
+      <Authors>
+         <Author>Craig Grannell</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$34.99</ListPrice>
+      <OurPrice>$23.09</OurPrice>
+   </Book>
+   <Book>
+      <ISBN>1590594665</ISBN>
+      <BookTitle>Foundation PHP 5 For Flash</BookTitle>
+      <Authors>
+         <Author>David Powers</Author>
+      </Authors>
+      <Publisher>friends of ED</Publisher>
+      <ListPrice>$44.99</ListPrice>
+      <OurPrice>$29.70</OurPrice>
+   </Book>
+</Results>
